@@ -26,7 +26,7 @@ An Arithimetic Interpreter (Also Made From Scratch in Javascript).
 Althou my current 'finished' projects were made in Javascript, i focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
 
 # Known Languages
-Im not set to a particular language, since i find it a bad practice to depend on a system that i cannot control, but i have practiced with some languages, like Java, Javascript, Python and C (The Basic C, not C++).
+Im not set to a particular language, since i find it a bad practice to depend on a system that i cannot control (Personal Opinion), but i have practiced with some languages, like Java, Javascript, Python and C (The Basic C, not C++).
 
 And im also interested in learning Assembly, but i believe it would be a very painful experience to be had this early in my programming 'career'.
 
