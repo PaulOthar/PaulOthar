@@ -9,12 +9,12 @@ Currently im very interested in cyber security, but nowhere near confident to ac
 
 # Experiences
 
-## Professional:
+### Professional:
 None 😂.
 Im yet to be hired by some company to put my skills to the test.
 Hopefully there will be a place that will accept to deal with my dreadful lack of knowledge.
 
-## Personal:
+### Personal:
 For now, i have 'finished' a couple of projects:
 A 3D Engine (Made From Scratch in Javascript, using HTML canvas as a screen to draw pixels).
 An Arithimetic Interpreter (Also Made From Scratch in Javascript).
@@ -23,13 +23,13 @@ An Arithimetic Interpreter (Also Made From Scratch in Javascript).
 Althou my current 'finished' projects were made in Javascript, i focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
 
 # Other Informations
-## Contacts:
+### Contacts:
 Im nowhere near confident enought to share my personal social media accounts with strangers...🤔
 
-## Why Othar?
+### Why Othar?
 Othar is just a nickname that i think is cool. it means "Foolish Warrior" in some forgotten game universe (I dont remember where i got it from 😢)
 
-## For How Much Would You use Light Theme?
+### For How Much Would You use Light Theme?
 There is no amounts of money in this world that would bribe me into torture my eyes with the sight of burning agony.
 
 <!--
