@@ -27,7 +27,7 @@ Althou my current 'finished' projects were made in Javascript, i focused in deve
 Im nowhere near confident enought to share my personal social media accounts with strangers...🤔
 
 ## Why Othar?
-Othar is just a nickname i find it cool, it means "Foolish Warrion" in some forgotten game universe (I dont remember where i got it from 😢)
+Othar is just a nickname that i think is cool. it means "Foolish Warrior" in some forgotten game universe (I dont remember where i got it from 😢)
 
 ## For How Much Would You use Light Theme?
 There is no amounts of money in this world that would bribe me into torture my eyes with the sight of burning agony.
