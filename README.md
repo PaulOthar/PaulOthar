@@ -25,6 +25,16 @@ An Arithimetic Interpreter (Also Made From Scratch in Javascript).
 ### Disclaimer:
 Althou my current 'finished' projects were made in Javascript, i focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
 
+# Known Languages
+Im not set to a particular language, since i find it a bad practice to depend on a system that i cannot control, but i have practiced with some languages, like Java, Javascript, Python and C (The Basic C, not C++).
+
+And im also interested in learning Assembly, but i believe it would be a very painful experience to be had this early in my programming 'career'.
+
+# Other Tecnologies
+Im used to build HTML pages with CSS (Nothing too fancy, just the bare minimum to use my systems).
+
+I also have a little (Very Little) knowledge of the SQL commands (Used MySQL in College, with an Java Middleware).
+
 # Other Informations
 ### Contacts:
 Im nowhere near confident enought to share my personal social media accounts with strangers...🤔
