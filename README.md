@@ -12,11 +12,14 @@ Currently im very interested in cyber security, but nowhere near confident to ac
 ### Professional:
 None 😂.
 Im yet to be hired by some company to put my skills to the test.
+
 Hopefully there will be a place that will accept to deal with my dreadful lack of knowledge.
 
 ### Personal:
 For now, i have 'finished' a couple of projects:
+
 A 3D Engine (Made From Scratch in Javascript, using HTML canvas as a screen to draw pixels).
+
 An Arithimetic Interpreter (Also Made From Scratch in Javascript).
 
 ### Disclaimer:
