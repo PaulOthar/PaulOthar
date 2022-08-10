@@ -1,4 +1,4 @@
-# Hello 😄, im Paul (Paulo in Portuguese)
+# Hello 😄, im Paul
 Im a Newbie Programmer, widly interested in Low Level Systems (Althou i might use Hight Level Languages to Build Prototypes).
 
 Personally im a big fan of tabletop RPG's, and most of my projects were built to serve as a tool for those that are also interested in messing around with tabletop games in general.
