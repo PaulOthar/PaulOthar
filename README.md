@@ -1,5 +1,5 @@
 # Hello 😄, im Paul
-Im a Newbie Programmer, widly interested in Low Level Systems (Althou i might use Hight Level Languages to Build Prototypes).
+Im a Newbie Programmer, widly interested in Low Level Systems (Although i might use Hight Level Languages to Build Prototypes).
 
 Personally im a big fan of tabletop RPG's, and most of my projects were built to serve as a tool for those that are also interested in messing around with tabletop games in general.
 
@@ -22,8 +22,12 @@ A 3D Engine (Made From Scratch in Javascript, using HTML canvas as a screen to d
 
 An Arithimetic Interpreter (Also Made From Scratch in Javascript).
 
+A Lexer in Several Languages(Such as Java and C)
+
+A Huffman Compressor in Java
+
 ### Disclaimer:
-Althou my current 'finished' projects were made in Javascript, i focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
+Although some of my current 'finished' projects were made in Javascript, im focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
 
 # Known Languages
 Im not set to a particular language, since i find it a bad practice to depend on a system that i cannot control (Personal Opinion), but i have practiced with some languages, like Java, Javascript, Python and C (The Basic C, not C++).
