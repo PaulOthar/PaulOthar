@@ -20,6 +20,7 @@ Internship in Software Quality.<br>
 |WebdriverIO|
 |Javascript(Node)|
 |JSON|
+|Git|
 
 ### Personal:
 For now, i have 'finished' a couple of projects:
@@ -56,6 +57,8 @@ And im also interested in learning Assembly, but i believe it would be a very pa
 |Mocha|Bare Minimum|
 |WebdriverIO|Low|
 |JSON|Bare Minimum|
+|Git|Intermediate|
+|Markdown|Low|
 
 # Other Informations
 ### Contacts:
