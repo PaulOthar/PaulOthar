@@ -10,27 +10,35 @@ Currently im very interested in cyber security, but nowhere near confident to ac
 # Experiences
 
 ### Professional:
-None 😂.
-Im yet to be hired by some company to put my skills to the test.
-
-Hopefully there will be a place that will accept to deal with my dreadful lack of knowledge.
+Internship in Software Quality.<br>
+|Technologies Used|
+|-|
+|JUnit|
+|Java(Maven)|
+|Javascript(Node)|
+|JSON|
 
 ### Personal:
 For now, i have 'finished' a couple of projects:
 
-A 3D Engine (Made From Scratch in Javascript, using HTML canvas as a screen to draw pixels).
-
-An Arithimetic Interpreter (Also Made From Scratch in Javascript).
-
-A Lexer in Several Languages(Such as Java and C)
-
-A Huffman Compressor in Java
+|Project|Java|Javascript|C/C++|Python|
+|-------|-|-|-|-|
+|3D Engine|✔️|✔️|❌|✔️|
+|Lexer|✔️|✔️|✔️|✔️|
+|Arithimetic Parser|✔️|✔️|❌|❌|
+|Huffman Compressor|✔️|❌|❌|❌|
+|Maze Builder|✔️|✔️|❌|❌|
 
 ### Disclaimer:
 Although some of my current 'finished' projects were made in Javascript, im focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
 
-# Known Languages
-Im not set to a particular language, since i find it a bad practice to depend on a system that i cannot control (Personal Opinion), but i have practiced with some languages, like Java, Javascript, Python and C (The Basic C, not C++).
+# Known Languages and level of "Experience"
+|Language|Experience|Likeability|
+|-|-|-|
+|Java|Intermediate|High|
+|Javascript|Intermediate|Low|
+|C/C++|Low|Intermediate|
+|Python|Low|Low|
 
 And im also interested in learning Assembly, but i believe it would be a very painful experience to be had this early in my programming 'career'.
 
