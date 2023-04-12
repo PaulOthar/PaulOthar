@@ -16,6 +16,7 @@ Internship in Software Quality.<br>
 |JUnit|
 |Selenium|
 |Java(Maven)|
+|Mocha|
 |Javascript(Node)|
 |JSON|
 
@@ -49,6 +50,10 @@ And im also interested in learning Assembly, but i believe it would be a very pa
 |HTML|Bare Minimum|
 |CSS|Bare Minimum|
 |SQL|Bare Minimum|
+|Selenium|Low|
+|JUnit|Low|
+|Mocha|Bare Minimum|
+|JSON|Bare Minimum|
 
 # Other Informations
 ### Contacts:
