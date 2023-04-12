@@ -14,6 +14,7 @@ Internship in Software Quality.<br>
 |Technologies Used|
 |-|
 |JUnit|
+|Selenium|
 |Java(Maven)|
 |Javascript(Node)|
 |JSON|
@@ -32,8 +33,8 @@ For now, i have 'finished' a couple of projects:
 ### Disclaimer:
 Although some of my current 'finished' projects were made in Javascript, im focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
 
-# Known Languages and level of "Experience"
-|Language|Experience|Likeability|
+# Known Languages and level of "Knowledge"
+|Language|Knowledge|Interest|
 |-|-|-|
 |Java|Intermediate|High|
 |Javascript|Intermediate|Low|
@@ -43,9 +44,11 @@ Although some of my current 'finished' projects were made in Javascript, im focu
 And im also interested in learning Assembly, but i believe it would be a very painful experience to be had this early in my programming 'career'.
 
 # Other Tecnologies
-Im used to build HTML pages with CSS (Nothing too fancy, just the bare minimum to use my systems).
-
-I also have a little (Very Little) knowledge of the SQL commands (Used MySQL in College, with an Java Middleware).
+|Tecnology|Knowledge|
+|-|-|
+|HTML|Bare Minimum|
+|CSS|Bare Minimum|
+|SQL|Bare Minimum|
 
 # Other Informations
 ### Contacts:
