@@ -39,7 +39,7 @@ Although some of my current 'finished' projects were made in Javascript, im focu
 # Known Languages and level of "Knowledge"
 |Language|Knowledge|Interest|
 |-|-|-|
-|Java|Intermediate|High|
+|Java|Intermediate|<b style="color:green">High</b>|
 |Javascript|Intermediate|Low|
 |C/C++|Low|Intermediate|
 |Python|Low|Low|
