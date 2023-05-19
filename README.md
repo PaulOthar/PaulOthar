@@ -1,3 +1,9 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 # Hello 😄, im Paul
 Im a Newbie Programmer, widly interested in Low Level Systems (Although i might use Hight Level Languages to Build Prototypes).
 
@@ -39,7 +45,7 @@ Although some of my current 'finished' projects were made in Javascript, im focu
 # Known Languages and level of "Knowledge"
 |Language|Knowledge|Interest|
 |-|-|-|
-|Java|Intermediate|<b style="color:green">High</b>|
+|Java|Intermediate|<g>High</g>|
 |Javascript|Intermediate|Low|
 |C/C++|Low|Intermediate|
 |Python|Low|Low|
