@@ -21,6 +21,7 @@ Internship in Software Quality.<br>
 |Javascript(Node)|
 |JSON|
 |Git|
+|Java GUI (Swing & AWT)|
 
 ### Personal:
 For now, i have 'finished' a couple of projects:
@@ -59,6 +60,7 @@ And im also interested in learning Assembly, but i believe it would be a very pa
 |JSON|Bare Minimum|
 |Git|Intermediate|
 |Markdown|Low|
+|Java GUI (Swing & AWT)|Intermediate|
 
 # Other Informations
 ### Contacts:
