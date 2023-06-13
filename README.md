@@ -1,5 +1,5 @@
 # Hello 😄, im Paul
-Im a Newbie Programmer, widly interested in Low Level Systems (Although i might use Hight Level Languages to Build Prototypes).
+Im a Newbie Programmer, widly interested in Low Level Systems (Although i might use High Level Languages to Build Prototypes).
 
 Personally im a big fan of tabletop RPG's, and most of my projects were built to serve as a tool for those that are also interested in messing around with tabletop games in general.
 
@@ -63,14 +63,8 @@ And im also interested in learning Assembly, but i believe it would be a very pa
 |Java GUI (Swing & AWT)|Intermediate|
 
 # Other Informations
-### Contacts:
-Im nowhere near confident enought to share my personal social media accounts with strangers...🤔
-
 ### Why Othar?
 Othar is just a nickname that i think is cool. it means "Foolish Warrior" in some forgotten game universe (I dont remember where i got it from 😢)
-
-### For How Much Would You use Light Theme?
-There is no amounts of money in this world that would bribe me into torture my eyes with the sight of burning agony.
 
 <!--
 **PaulOthar/PaulOthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
