@@ -33,6 +33,8 @@ For now, i have 'finished' a couple of projects:
 |Arithimetic Parser|✔️|✔️|❌|❌|
 |Huffman Compressor|✔️|❌|❌|❌|
 |Maze Builder|✔️|✔️|❌|❌|
+|Console Renderer|✔️|✔️|✔️|❌|
+
 
 ### Disclaimer:
 Although some of my current 'finished' projects were made in Javascript, im focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
@@ -42,10 +44,11 @@ Although some of my current 'finished' projects were made in Javascript, im focu
 |-|-|-|
 |Java|Intermediate|High|
 |Javascript|Intermediate|Low|
-|C/C++|Low|Intermediate|
+|C/C++|Intermediate|High|
 |Python|Low|Low|
+|6502 Assembly|Low|Intermediate|
 
-And im also interested in learning Assembly, but i believe it would be a very painful experience to be had this early in my programming 'career'.
+<!-- And im also interested in learning Assembly, but i believe it would be a very painful experience to be had this early in my programming 'career'. -->
 
 # Other Tecnologies
 |Tecnology|Knowledge|
@@ -61,6 +64,7 @@ And im also interested in learning Assembly, but i believe it would be a very pa
 |Git|Intermediate|
 |Markdown|Low|
 |Java GUI (Swing & AWT)|Intermediate|
+|Spring Framework|Bare Minimum|
 
 # Other Informations
 ### Why Othar?
