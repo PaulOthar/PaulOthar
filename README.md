@@ -34,6 +34,7 @@ For now, i have 'finished' a couple of projects:
 |Huffman Compressor|✔️|❌|✔️|❌|
 |Maze Builder|✔️|✔️|❌|❌|
 |Console Renderer|✔️|✔️|✔️|❌|
+|SQRT|✔️|✔️|✔️|❌|
 
 
 ### Disclaimer:
