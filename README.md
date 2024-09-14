@@ -28,10 +28,10 @@ For now, i have 'finished' a couple of projects:
 
 |Project|Java|Javascript|C/C++|Python|
 |-------|-|-|-|-|
-|3D Engine|✔️|✔️|❌|✔️|
+|3D Engine|✔️|✔️|✔️|✔️|
 |Lexer|✔️|✔️|✔️|✔️|
 |Arithimetic Parser|✔️|✔️|❌|❌|
-|Huffman Compressor|✔️|❌|❌|❌|
+|Huffman Compressor|✔️|❌|✔️|❌|
 |Maze Builder|✔️|✔️|❌|❌|
 |Console Renderer|✔️|✔️|✔️|❌|
 
