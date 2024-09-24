@@ -28,6 +28,7 @@ For now, i have 'finished' a couple of projects:
 
 |Project|Java|Javascript|C/C++|Python|
 |-------|-|-|-|-|
+|Isometric Engine|✔️|❌|✔️|❌|
 |3D Engine|✔️|✔️|✔️|✔️|
 |Lexer|✔️|✔️|✔️|✔️|
 |Arithimetic Parser|✔️|✔️|❌|❌|
