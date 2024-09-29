@@ -1,30 +1,29 @@
 # Hello 😄, im Paul
-Im a Newbie Programmer, widly interested in Low Level Systems (Although i might use High Level Languages to Build Prototypes).
-
-Personally im a big fan of tabletop RPG's, and most of my projects were built to serve as a tool for those that are also interested in messing around with tabletop games in general.
-
-But My interest is not exclusive to game development, since other (probably hidden) projects are focused in dealing with data analisys and AI. But the lack of usage does not allow me to finish a version that satisfies my ego.
-
-Currently im very interested in cyber security, but nowhere near confident to actually practice it.
+Im a software developer interested in low level and cybersecurity.<br>
+I've been working on my own engine for the past years, acquiring skills relevant for optimization and efficient computer resources management.<br>
+as a side hobby (since programming is both by job and my hobby), i am planning to build my own MSX clone, with old hardware, such as the Z80 procesor (DIP).
 
 # Experiences
 
 ### Professional:
-Internship in Software Quality.<br>
+Internship in Software Quality Assurance.<br>
 |Technologies Used|
 |-|
-|JUnit|
-|Selenium|
-|Java(Maven)|
+|Javascript(with Node)|
+|Java(Maven projects)|
 |Mocha|
 |WebdriverIO|
-|Javascript(Node)|
+|Botium|
+|JUnit|
+|Selenium|
+|Java GUI (Swing & AWT)|
 |JSON|
 |Git|
-|Java GUI (Swing & AWT)|
+|H2 Database|
+|Oracle Database|
 
 ### Personal:
-For now, i have 'finished' a couple of projects:
+For now, i have reached a desirable checkmark on a couple of projects:
 
 |Project|Java|Javascript|C/C++|Python|
 |-------|-|-|-|-|
@@ -37,10 +36,6 @@ For now, i have 'finished' a couple of projects:
 |Console Renderer|✔️|✔️|✔️|❌|
 |SQRT|✔️|✔️|✔️|❌|
 
-
-### Disclaimer:
-Although some of my current 'finished' projects were made in Javascript, im focused in developing the logic above all else, instead of adapting the language to fit my needs, since the Language may vary, but the Logic never will.
-
 # Known Languages and level of "Knowledge"
 |Language|Knowledge|Interest|
 |-|-|-|
@@ -49,15 +44,14 @@ Although some of my current 'finished' projects were made in Javascript, im focu
 |C/C++|Intermediate|High|
 |Python|Low|Low|
 |6502 Assembly|Low|Intermediate|
-
-<!-- And im also interested in learning Assembly, but i believe it would be a very painful experience to be had this early in my programming 'career'. -->
+|Z80 Assembly|Low|High|
 
 # Other Tecnologies
 |Tecnology|Knowledge|
 |-|-|
 |HTML|Bare Minimum|
 |CSS|Bare Minimum|
-|SQL|Bare Minimum|
+|MySQL|Bare Minimum|
 |Selenium|Low|
 |JUnit|Low|
 |Mocha|Bare Minimum|
@@ -67,10 +61,6 @@ Although some of my current 'finished' projects were made in Javascript, im focu
 |Markdown|Low|
 |Java GUI (Swing & AWT)|Intermediate|
 |Spring Framework|Bare Minimum|
-
-# Other Informations
-### Why Othar?
-Othar is just a nickname that i think is cool. it means "Foolish Warrior" in some forgotten game universe (I dont remember where i got it from 😢)
 
 <!--
 **PaulOthar/PaulOthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
