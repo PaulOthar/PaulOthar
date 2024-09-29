@@ -1,7 +1,7 @@
 # Hello 😄, im Paul
 Im a software developer interested in low level and cybersecurity.<br>
 I've been working on my own engine for the past years, acquiring skills relevant for optimization and efficient computer resources management.<br>
-as a side hobby (since programming is both by job and my hobby), i am planning to build my own MSX clone, with old hardware, such as the Z80 procesor (DIP).
+As a side hobby (since programming is both by job and my hobby), i am planning to build my own MSX clone, with old hardware, such as the Z80 procesor (DIP).
 
 # Experiences
 
