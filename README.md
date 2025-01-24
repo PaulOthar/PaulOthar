@@ -43,8 +43,8 @@ For now, i have reached a desirable checkmark on a couple of projects:
 |C/C++|Intermediate|High|
 |Javascript|Intermediate|Low|
 |Python|Low|Low|
-|Z80 Assembly|Low|High|
-|6502 Assembly|Low|Intermediate|
+|Z80 Assembly|Very Low|High|
+|6502 Assembly|Very Low|Intermediate|
 
 # Other Tecnologies
 |Tecnology|Knowledge|
