@@ -34,32 +34,32 @@ For now, i have reached a desirable checkmark on a couple of projects:
 |Huffman Compressor|✔️|❌|✔️|❌|
 |Maze Builder|✔️|✔️|❌|❌|
 |Console Renderer|✔️|✔️|✔️|❌|
-|SQRT|✔️|✔️|✔️|❌|
+|SQRT|✔️|✔️|✔️|✔️|
 
 # Known Languages and level of "Knowledge"
 |Language|Knowledge|Interest|
 |-|-|-|
 |Java|Intermediate|High|
-|Javascript|Intermediate|Low|
 |C/C++|Intermediate|High|
+|Javascript|Intermediate|Low|
 |Python|Low|Low|
-|6502 Assembly|Low|Intermediate|
 |Z80 Assembly|Low|High|
+|6502 Assembly|Low|Intermediate|
 
 # Other Tecnologies
 |Tecnology|Knowledge|
 |-|-|
+|Git|Intermediate|
+|Java GUI (Swing & AWT)|Intermediate|
+|Markdown|Low|
+|Selenium|Low|
+|JUnit|Low|
+|WebdriverIO|Low|
 |HTML|Bare Minimum|
 |CSS|Bare Minimum|
 |MySQL|Bare Minimum|
-|Selenium|Low|
-|JUnit|Low|
 |Mocha|Bare Minimum|
-|WebdriverIO|Low|
 |JSON|Bare Minimum|
-|Git|Intermediate|
-|Markdown|Low|
-|Java GUI (Swing & AWT)|Intermediate|
 |Spring Framework|Bare Minimum|
 
 <!--
